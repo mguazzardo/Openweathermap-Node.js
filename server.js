@@ -9,9 +9,9 @@ const app = express();
 
 require('dotenv').config();
 
-// Set up our openweathermap API_KEY
+// Set up our openweathermap API_KEYe898b7ae111271012246ee8cdfab5a4a
 
-const apiKey = `${process.env.API_KEY}`;
+const apiKey = 'e898b7ae111271012246ee8cdfab5a4a';
 
 // Setup our express app and body-parser configurations
 // Setup our javascript template view engine
